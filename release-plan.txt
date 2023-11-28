@@ -1,0 +1,36 @@
+remove all SFX and music from project folder to avoid stupid troubles
+change all sound IDs in-game to be some royalty free roblox one
+
+audio credits file
+
+post a showcase of the game on youtube, linking the github page in the description
+link the showcase video in the final game description.
+
+>>>>>>>>>>>>>>>>>>>>>>>>
+
+SUBSPACE AND YOULL LIKE IT
+thanks for playing! data doesnt save.
+
+recommended to play on a very specific window size so UI scales properly.
+sorry couldnt figure how to fix that out during development
+
+full gameplay showcase: [link]
++ games source code
+
+---
+
+controls:
+
+(SHIFT/X) = dash [also increases jump]
+(R/START/SELECT) = reset character
+
+---
+
+MUSIC AUTHORS:
+songs used in this game WERE NOT made by me.
+if any of the authors wish to get their work removed, please contact me through my social media on my profile. ill be happy to do so.
+
+SiIvaGunner
+Nintendo
+
+>>>>>>>>>>>>>>>>>>>>>>>>

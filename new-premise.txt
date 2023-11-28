@@ -1,0 +1,46 @@
+
+SUBPSACE AND YOU'LL LIKE IT
+guis death maze sequel and end
+
+-- style: --
+doesnt matter. make it so lazy that it becomes its own style
+
+-- character: --
+WASD to move
+space to jump
+shift to dash
+R to reset
+
+3 HP.
+gears dont use custom made systems, use like the roblox API.
+gears only have 1 move. no in depth movesets, 1 move. this is cuz ur gonna be combining a lot of them, so like
+keep most of them individually simple but the actual gameplay diverse!
+
+-- story: --
+
+summary > youre a new intern hired by the *Brickbattle Association* to become Gorpo's sucessor.
+unfortunately you end up being a victim of Gorpo's last failed experiment,
+your job is to escape whatever void you got sucked into.
+
+*whos gorpo?*
+some evil dark knight scientist idk guy but he made the ""subspace"" so the world is all his and hes like the ultimate
+boss force
+
+*whats the brickbattle association?*
+idk
+
+*whats the subspace?*
+IDK infinite void that stems from the creator's (as in guy who MADE the subspace tripmine) like imagination.
+basically ur stuck in gorpos little dream world or something. and as ssoon as you kill him, youll be free
+
+-- enemies: --
+dont worry no enemies too much of a nightmare to program
+
+only obstacles. like as if this was an OBBY
+
+-- npcs (in order of appearance): --
+C. BUGTON - "sword"
+HYUN - "bomb"
+NUMBERONE - "parasol"
+EULB - "cheezburger"
+GORPO - "illumina"

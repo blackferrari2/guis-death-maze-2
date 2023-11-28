@@ -1,0 +1,55 @@
+
+SALTARE OPPIDUM
+wrath of the subspace
+
+-- style: --  
+2008 roblox or something. keep it REALLY simple
+
+-- character --
+WASD to move
+space to jump
+shift to dash
+
+3 HP.
+gears dont use custom made systems, use like the roblox API.
+
+-- story (presented in like paper mario way): --
+lhorme, king of subspace, was too, one of us - the peaceful citizens of dance town.
+
+Then came the day where he became the first to come into contact with the all-mighty subpace tripmine.
+
+ever since, he has obtained unfathomable amounts of power.
+
+Obsessed with his newfound control, he so chose to travel all sorts of dimentions in search of purpose,
+i mean, i dont think anything is gonna be that exciting when you can just destroy the world in a matter
+of seconds.
+
+What he doesnt know, is that he still owes me R$100. He used it to buy that weird silly knight hat of his.
+And im running out of money myself, so im just asking you to bring us some justice and get our money back
+at least. No need to kill the almighty subspace lord, just make him summon a giant pile of gold for us or whatever.
+
+Haha, thats all we have to offer. We at dance town wish you the best!
+
+Surprisignly, lhorme left a few portals to the worlds hes been travelling to, no idea why. Just enter
+one of those weird structures with dark entrances on them!
+
+-- worlds: --
+0 - dance town 
+>> INTRODUCES: sword gear
+
+1 - big space (SMS bonus level kinda stuff)
+>> INTRODUCES: bomb gear
+
+2 - tower of RED (descend tower)
+>> INTRODUCES: parasol gear
+
+3 - where am i (like grassy plain kinda thing, but grayscale)
+>> INTRODUCES: cheezburger gear (heals)
+
+4 - lair of lhorme (dark forest, huge staircase) (thers like gear pillars like kirby ability things)
+>> INTRODUCES: sword disappears, upgrades to illumina
+
+each world should take advantage of the gears u obtain and already have.
+
+-- enemies: --
+theres no enemies, only obstacles. which are mostly just variations of a kill brick (spikes)/.

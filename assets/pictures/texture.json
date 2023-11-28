@@ -1,0 +1,231 @@
+{
+  "frames": {
+    "Banan2.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Banan3.png": {
+      "frame": {
+        "x": 0,
+        "y": 154,
+        "w": 154,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Banana1.png": {
+      "frame": {
+        "x": 0,
+        "y": 308,
+        "w": 154,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Chezburger1.png": {
+      "frame": {
+        "x": 154,
+        "y": 0,
+        "w": 154,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Chezburger2.png": {
+      "frame": {
+        "x": 308,
+        "y": 0,
+        "w": 154,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Chezburger3.png": {
+      "frame": {
+        "x": 154,
+        "y": 154,
+        "w": 154,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Hotdog1.png": {
+      "frame": {
+        "x": 154,
+        "y": 308,
+        "w": 102,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 102,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Hotdog2.png": {
+      "frame": {
+        "x": 154,
+        "y": 410,
+        "w": 102,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 102,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Hotdog3.png": {
+      "frame": {
+        "x": 256,
+        "y": 410,
+        "w": 102,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 102,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 462,
+      "h": 512
+    },
+    "scale": 1
+  }
+}
